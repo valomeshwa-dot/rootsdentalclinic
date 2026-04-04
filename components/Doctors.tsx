@@ -18,8 +18,8 @@ export const Doctors: React.FC<{ onBookClick: () => void }> = ({ onBookClick }) 
                 <div className="absolute inset-0 bg-medical-500 rounded-3xl rotate-6 opacity-10"></div>
                 <div className="relative rounded-3xl overflow-hidden border border-slate-100 shadow-2xl bg-slate-50">
                     <img 
-                      src="/dr_menaz_thakkar_1775214863538.png" 
-                      alt="Dr. Menaz Thakkar" 
+                      src="/images/doctor.png" 
+                      alt="Dr. Menaz Thakkar - Lead Dentist" 
                       className="w-full h-auto object-cover min-h-[400px]"
                     />
                     <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent p-8 pt-24 text-white">

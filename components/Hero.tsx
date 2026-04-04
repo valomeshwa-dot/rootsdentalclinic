@@ -127,7 +127,7 @@ export const Hero: React.FC<HeroProps> = ({ onBookClick }) => {
           >
             <div className="relative rounded-3xl overflow-hidden shadow-2xl shadow-medical-900/10 border-4 border-white">
               <img 
-                src="/roots_dental_hero_1775214680390.png" 
+                src="/images/clinic.png" 
                 alt="Modern Clinic at Roots Dental Clinic" 
                 className="w-full h-auto object-cover transform hover:scale-105 transition-transform duration-1000"
               />

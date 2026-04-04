@@ -81,8 +81,8 @@ export const About: React.FC = () => {
             <div className="max-w-md w-full group relative overflow-hidden rounded-2xl bg-white shadow-lg border border-slate-100">
               <div className="aspect-[4/5] overflow-hidden bg-slate-50">
                 <img 
-                  src="/dr_menaz_thakkar_1775214863538.png" 
-                  alt="Dr. Menaz Thakkar" 
+                  src="/images/doctor.png" 
+                  alt="Dr. Menaz Thakkar - Lead Dentist" 
                   className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" 
                 />
               </div>
